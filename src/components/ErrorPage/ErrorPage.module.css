@@ -1,0 +1,25 @@
+.error {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    max-width: 1200px; 
+    height: 300px;
+    border: 3px solid red;
+    margin-bottom: 50px;
+}
+
+.error img {
+    height: 200px;
+}
+
+.button {
+    background-color: rgb(225, 238, 245); 
+    border: none;
+    color: green;
+    font-size: 16px;
+    border: 2px solid green;
+    margin: 10px;
+    cursor: pointer;
+}
